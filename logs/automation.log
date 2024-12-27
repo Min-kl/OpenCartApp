@@ -1,0 +1,85 @@
+2024-12-27 16:22:45 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 16:22:46 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 16:22:46 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 16:22:46 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 16:22:48 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 16:22:48 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 16:22:55 INFO  TC02_LoginTest:16 - ***Starting TC02_Logintest***
+2024-12-27 16:31:05 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 16:31:06 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 16:31:06 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 16:31:06 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 16:31:08 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 16:31:08 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 16:33:55 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 16:33:55 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 16:33:56 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 16:33:56 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 16:33:57 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 16:33:57 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 16:34:01 INFO  TC02_LoginTest:16 - ***Starting TC02_Logintest***
+2024-12-27 16:36:16 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 16:36:16 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 16:36:17 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 16:36:17 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 16:36:18 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 16:36:18 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 16:36:19 INFO  TC02_LoginTest:16 - ***Starting TC02_Logintest***
+2024-12-27 16:50:24 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 16:50:24 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 16:50:25 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 16:50:25 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 16:50:27 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 16:50:27 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 17:00:40 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 17:00:40 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 17:00:40 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 17:00:40 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 17:00:42 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 17:00:43 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 17:14:46 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 17:14:46 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 17:14:46 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 17:14:46 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 17:14:48 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 17:14:48 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 17:14:53 INFO  TC02_LoginTest:16 - ***Starting TC02_Logintest***
+2024-12-27 17:22:28 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 17:22:28 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 17:22:29 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 17:22:29 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 17:22:30 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 17:22:30 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 17:22:34 INFO  TC02_LoginTest:16 - ***Starting TC02_Logintest***
+2024-12-27 17:29:37 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 17:29:37 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 17:29:37 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 17:29:37 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 17:29:38 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 17:29:38 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 17:29:43 INFO  TC02_LoginTest:16 - ***Starting TC02_Logintest***
+2024-12-27 17:30:25 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 17:30:25 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 17:30:25 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 17:30:25 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 17:30:26 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 17:30:26 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 17:30:27 INFO  TC02_LoginTest:16 - ***Starting TC02_Logintest***
+2024-12-27 18:22:51 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 18:22:51 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 18:22:51 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 18:22:51 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 18:22:53 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 18:22:53 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 18:40:10 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 18:40:10 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 18:40:11 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 18:40:11 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 18:40:12 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 18:40:12 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***
+2024-12-27 18:53:16 INFO  TC01_AccountRegistrationTest:17 - *** Starting TC01_AccountRegistrationTest ***
+2024-12-27 18:53:16 INFO  TC01_AccountRegistrationTest:20 - Clicked on myaccount
+2024-12-27 18:53:16 INFO  TC01_AccountRegistrationTest:22 - Clicked on Register
+2024-12-27 18:53:16 INFO  TC01_AccountRegistrationTest:24 - Providing customer details
+2024-12-27 18:53:18 INFO  TC01_AccountRegistrationTest:36 - Capturing expected message..
+2024-12-27 18:53:18 INFO  TC01_AccountRegistrationTest:54 - ***Finished TC01_AccountRegistrationTest***

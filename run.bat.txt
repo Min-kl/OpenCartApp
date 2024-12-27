@@ -1,0 +1,2 @@
+cd C:\Users\vedan\eclipse-workspace\OpencartApp
+mvn test
