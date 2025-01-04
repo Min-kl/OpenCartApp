@@ -11,7 +11,7 @@
     <classes>
       
       <class name="TestCases.TC01_AccountRegistrationTest"/>
-      <!--class name="TestCases.TC02_LoginTest"/-->
+      <class name="TestCases.TC02_LoginTest"/>
       <!--class name="TestCases.TC03_LoginDDT"/-->
     </classes>
   </test> <!-- Test -->
